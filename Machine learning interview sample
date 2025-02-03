@@ -24,3 +24,4 @@ def full_backward_propagation(Y_hat, Y, memory, params_values, nn_architecture):
         grads_values["db" + str(layer_idx_curr)] = db_curr
     
     return grads_values
+Intreview sample questions
